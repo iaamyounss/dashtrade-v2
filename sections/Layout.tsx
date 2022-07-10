@@ -10,9 +10,8 @@ const Layout = ({ children }: props) => {
   return (
     <>
       <Head>
-        <title>Nextjs-Dev Blog</title>
+        <title>Dashtrade v2</title>
         <link rel="icon" href="/favicon.ico" />
-        
       </Head>
 
       <div className="min-h-screen mx-auto max-w-2xl flex flex-col">
