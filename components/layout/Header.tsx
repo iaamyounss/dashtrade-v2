@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useTheme } from "next-themes";
 import { SunIcon, MoonIcon } from "@heroicons/react/solid";
-import Logo from "../components/Logo";
+import Logo from "../Logo";
 
 const Header = () => {
 
